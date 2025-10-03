@@ -6,7 +6,7 @@ highlight clear
 if exists("syntax_on")
   syntax reset
 endif
-let g:colors_name = "boykisser_hyper"
+let g:colors_name = "pink_soup"
 
 " --- Core Palette ---
 let s:bg        = "#1b0c20"  " Primary background - Dark velvet
