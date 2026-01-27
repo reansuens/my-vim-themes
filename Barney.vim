@@ -133,7 +133,7 @@ if !has("gui_running")
   call s:hi("Title",     s:cyan,"","80","")
 endif
 
-" --- Extended operations ---
+
 call s:hi("ColorColumn", "", s:bg_alt,"","235")
 call s:hi("WildMenu",    s:pink, s:selection,"218","236")
 call s:hi("User1",       s:green, s:bg_alt,"120","234")
