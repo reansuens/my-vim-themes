@@ -125,6 +125,7 @@ call s:hi("Todo",          s:bg,       s:yellow, "236","229")
 " --- Directory / :Ex ---
 call s:hi("Directory", s:pink,"","225","")
 
+
 " --- Non-GUI terminals ---
 if !has("gui_running")
   call s:hi("Normal",    "", "", "249","236")
